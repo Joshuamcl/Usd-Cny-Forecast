@@ -9,7 +9,7 @@ The models implemented are:
 - Decision Tree and Random Forest  
 
 ## Project Structure
-- `data/` : contains the dataset `usd_cny_data.xlsx`.  
+- `data/` : contains the dataset `Dataset prediction USDCNY.xlsx`.  
 - `src/` : Python scripts implementing the machine learning models.   
 - `README.md` : this file, describing the project.  
 - `LICENSE` : project license.  
