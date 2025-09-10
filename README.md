@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-green)
 # USD/CNY Exchange Rate Forecast
 
 ## Project Objective
