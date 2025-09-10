@@ -31,7 +31,19 @@ This dataset allows for a directional forecast of the USD/CNY exchange rate rath
 ## Notes
 - The project demonstrates data collection, preprocessing, model implementation, and basic evaluation.  
 - Results may vary depending on the model choice and parameters.  
-- The models aim to predict the direction of the exchange rate, not the exact value.  
+- The models aim to predict the direction of the exchange rate, not the exact value.
+
+  ## Results
+
+The models were evaluated on the dataset covering **January 2015 to December 2024**. Performance highlights:
+
+- **Random Forest:** Accuracy 39%. Captures some directional patterns but struggles overall.
+- **K-Nearest Neighbors (K=16):** Accuracy 50%. Balanced predictions, close to random performance.
+- **Neural Network:** Accuracy 61%. Good at predicting "Down" movements but misses many "Up" movements.
+
+**Summary:**  
+The project demonstrates the end-to-end ML workflow and highlights the challenges of predicting currency direction. Models provide insights into patterns and feature importance, even without high accuracy.
+
 
 ## Author
 Joshua Lemiere Mac Douglas – Master in Finance 
